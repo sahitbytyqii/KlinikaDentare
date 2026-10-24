@@ -1,0 +1,11 @@
+[
+  {"rezervimiId":"RE-001","username":"admin","emriKlientit":"","telefoni":"","sherbimiId":1,"data":"10/03/2026","sasia":1,"cmimiNjesi":-1.00},
+  {"rezervimiId":"RE-002","username":"sahit","emriKlientit":"","telefoni":"","sherbimiId":2,"data":"10/03/2026","sasia":1,"cmimiNjesi":-1.00},
+  {"rezervimiId":"RE-003","username":"admin","emriKlientit":"","telefoni":"","sherbimiId":3,"data":"10/03/2026","sasia":1,"cmimiNjesi":-1.00},
+  {"rezervimiId":"RE-004","username":"test","emriKlientit":"","telefoni":"","sherbimiId":1,"data":"03/10/2026","sasia":1,"cmimiNjesi":-1.00},
+  {"rezervimiId":"RE-005","username":"sahit","emriKlientit":"","telefoni":"","sherbimiId":2,"data":"10/03/2026","sasia":1,"cmimiNjesi":-1.00},
+  {"rezervimiId":"RE-006","username":"sahit","emriKlientit":"","telefoni":"","sherbimiId":3,"data":"05/10/2026","sasia":2,"cmimiNjesi":40.00},
+  {"rezervimiId":"RE-007","username":"sahit","emriKlientit":"SahitBytyqi","telefoni":"044211211","sherbimiId":2,"data":"10/10/2026","sasia":1,"cmimiNjesi":25.00},
+  {"rezervimiId":"RE-008","username":"test","emriKlientit":"KlasaAAB","telefoni":"049225225","sherbimiId":2,"data":"11/10/2026","sasia":1,"cmimiNjesi":25.00},
+  {"rezervimiId":"RE-008","username":"test","emriKlientit":"KlasaAAB","telefoni":"049225225","sherbimiId":4,"data":"11/10/2026","sasia":1,"cmimiNjesi":35.00}
+]

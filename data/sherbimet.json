@@ -1,0 +1,7 @@
+[
+  {"id":1,"emri":"Kontroll","pershkrimi":"Kontroll i përgjithshëm dentar","kohezgjatja":20,"cmimi":15.00,"shtuarNga":"admin"},
+  {"id":2,"emri":"Pastrim","pershkrimi":"Pastrim profesional i dhëmbëve","kohezgjatja":30,"cmimi":25.00,"shtuarNga":"admin"},
+  {"id":3,"emri":"Mbushje","pershkrimi":"Mbushje e dhëmbit të prishur","kohezgjatja":45,"cmimi":40.00,"shtuarNga":"admin"},
+  {"id":4,"emri":"Sherim","pershkrimi":"Sherimi i dhembit","kohezgjatja":30,"cmimi":35.00,"shtuarNga":"admin"},
+  {"id":5,"emri":"ECO","pershkrimi":"ECG e Dhembit","kohezgjatja":5,"cmimi":100.00,"shtuarNga":"sahit"}
+]

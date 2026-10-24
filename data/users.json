@@ -1,0 +1,5 @@
+[
+  {"username":"admin","password":"admin","emri":"Administratori","telefoni":"","role":"admin","admin":true},
+  {"username":"sahit","password":"sahit","emri":"SahitBytyqi","telefoni":"044211211","role":"Perdorues","admin":false},
+  {"username":"test","password":"test","emri":"KlasaAAB","telefoni":"049225225","role":"Perdorues","admin":false}
+]
